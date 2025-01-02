@@ -8,6 +8,7 @@
 
 [qrbtf](https://github.com/latentcat/qrbtf) 是一个参数化二维码生成器，由 Latent Cat 开发。它支持多种样式，无需后端，支持 SVG 格式，并且集成了 AI 和参数化部分，支持英文和中文，SSR 和懒加载组件。
 
+[QR Code Styling](https://github.com/kozakdenys/qr-code-styling) 是一个用于生成带有自定义样式和 Logo 的二维码的 JavaScript 库，支持多种环境和框架，如 React、Angular、Vue、Node.js 和 Next.js 等。
 
 [Docusaurus](https://github.com/facebook/docusaurus) 是一个可轻松构建、部署和维护开源项目网站的项目，具备上手简单、可本地化、可定制化等特点。
 
